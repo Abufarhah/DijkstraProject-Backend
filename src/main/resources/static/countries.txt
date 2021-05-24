@@ -1,0 +1,70 @@
+21 48
+Romania 45.089036 25.430848
+Niger 16.299051 10.130837
+Egypt 26.588527 29.691734
+Sudan 16.130262 30.364343
+Chad 14.604847 18.74987
+Portugal 38.272689 -8.517586
+Libya 26.74561 17.523744
+Palestine 31.428663 35.144621
+Spain 39.504041 -3.592659
+Saudi 24.20689 43.49023
+Greece 37.996163 22.440337
+Turkey 38.822591 35.10938
+Mauritania 19.642588 -10.098913
+Mali 16.972741 -1.65437
+Italy 41.902277 12.941811
+Algeria 27.371767 2.215399
+Iraq 32.249974 43.908537
+France 46.316584 2.564028
+Jordan 30.448674 36.815657
+Yemen 13.581921 49.537292
+UAE 23.805450 54.574170
+UAE Saudi
+Saudi UAE
+Portugal Greece
+Portugal Algeria
+Egypt Palestine
+Egypt Libya
+Egypt Sudan
+Turkey Saudi
+Romania Greece
+France Spain
+France Italy
+Mauritania Mali
+Algeria Egypt
+Algeria Libya
+Algeria Greece
+Algeria Mauritania
+Algeria Spain
+Algeria Mali
+Jordan Saudi
+Italy France
+Saudi Iraq
+Saudi Yemen
+Saudi Sudan
+Palestine Egypt
+Palestine Romania
+Palestine Yemen
+Palestine Jordan
+Palestine Saudi
+Libya Egypt
+Libya Algeria
+Libya Saudi
+Greece Palestine
+Greece Turkey
+Greece Italy
+Niger Algeria
+Chad Libya
+Chad Niger
+Chad Mali
+Spain Portugal
+Spain Turkey
+Spain France
+Yemen Iraq
+Mali Egypt
+Mali Mauritania
+Sudan Chad
+Sudan Mali
+Italy Greece
+Italy Romania
