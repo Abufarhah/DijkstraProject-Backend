@@ -1,4 +1,4 @@
-21 48
+72 211
 Romania 45.089036 25.430848
 Niger 16.299051 10.130837
 Egypt 26.588527 29.691734
@@ -15,56 +15,270 @@ Mauritania 19.642588 -10.098913
 Mali 16.972741 -1.65437
 Italy 41.902277 12.941811
 Algeria 27.371767 2.215399
-Iraq 32.249974 43.908537
+Iraq 33.40055230676603 43.12184739015492
 France 46.316584 2.564028
 Jordan 30.448674 36.815657
 Yemen 13.581921 49.537292
 UAE 23.805450 54.574170
+Iran 29.596386 54.117807
+Afghanistan 33.446117 65.702228
+Pakistan 30.160335 69.923795
+India 21.714606 79.158472
+Morocco 27.807971 -9.446061
+Tunisia 33.519396 9.488024
+Kuwait 28.505366 48.132953
+Eritrea 14.059836 38.370579
+Oman 19.857641 57.103782
+UK 55.378052 -3.435973
+Uzbekistan 41.459194 63.394173
+Somalia 3.794100 46.535264
+Kenya -1.652114 35.277753
+Angola -14.264383 18.708106
+Tanzania -6.839170 35.418475
+Namibia -23.402765 16.949120
+SouthAfrica -29.840644 22.577875
+Canada 71.233048 -1898.672411
+USA 36.569657 -1901.679756
+Mexico 23.079727 -1903.298014
+Colombia 3.197544 -1872.375039
+Brazil -15.690765 -1849.824951
+Uruguay -24.750846 -1856.860896
+Argentina -41.613818 -1867.907327
+Bolivia -17.078234924583363 -64.8970585121024
+Georgia 42.04051901523908 43.183912727846156
+Armenia 40.387766174219415 45.02961594858405
+Azerbaijan 40.387766174219415 48.017897353588246
+Moldova 47.58400531973262 28.74319005318354
+Ukraine 48.98930152932184 31.447080103235432
+Hungary 47.041874925877536 19.56453460277714
+Bosnia 44.79529369211246 17.87263998376741
+Serbia 44.12092479429495 20.50935887053582
+Albania 41.06465902192534 20.223714335866593
+Croatia 45.059756071498356 14.92830390494003
+Namsa 47.533715303940525 14.51082341453503
+Switzerland 46.7867169092254 7.699300122921375
+Germany 51.1953790436372 11.170980106752888
+Ethiopia 8.866931418395845 39.911214582049816
+Tanzania -5.9403066728819915 35.51668343234661
+Zambia -13.386105298186173 27.25496425380557
+Honduras 14.852420724641085 -86.7333967578352
+China 35.205696081312006 104.71386658116018
+Mongolia 47.066765821065154 101.63769454659702
+Russia 61.91595152194186 98.03417868453178
+Tajikistan 38.37225303680523 72.80956800567304
+Syria 35.03875126522308 38.396688713678806
+Lebanon 34.38853658500185 35.89180577124881
+Ecuador -1.3332723641819002 -78.12327036949304
+Peru -10.12701767117442 -75.72970666141498
+Chile -27.00648633805692 -70.19259749156761
 UAE Saudi
 Saudi UAE
-Portugal Greece
-Portugal Algeria
 Egypt Palestine
 Egypt Libya
 Egypt Sudan
-Turkey Saudi
-Romania Greece
+Sudan Egypt
 France Spain
+Switzerland Italy
+Italy Switzerland
 France Italy
 Mauritania Mali
-Algeria Egypt
 Algeria Libya
-Algeria Greece
+Libya Chad
+Libya Niger
+Niger Libya
+Libya Sudan
+Sudan Libya
 Algeria Mauritania
+Mauritania Algeria
 Algeria Spain
 Algeria Mali
+Mali Algeria
 Jordan Saudi
 Italy France
 Saudi Iraq
+Saudi Jordan
 Saudi Yemen
-Saudi Sudan
 Palestine Egypt
-Palestine Romania
-Palestine Yemen
 Palestine Jordan
-Palestine Saudi
+Jordan Palestine
 Libya Egypt
 Libya Algeria
-Libya Saudi
-Greece Palestine
-Greece Turkey
-Greece Italy
+Greece Albania
+Albania Greece
 Niger Algeria
+Algeria Niger
 Chad Libya
+Libya Chad
 Chad Niger
-Chad Mali
+Niger Chad
+Niger Mali
+Mali Niger
+Libya Niger
+Niger Libya
 Spain Portugal
-Spain Turkey
+Portugal Spain
 Spain France
 Yemen Iraq
-Mali Egypt
 Mali Mauritania
 Sudan Chad
-Sudan Mali
-Italy Greece
-Italy Romania
+Chad Sudan
+Iran Iraq
+Iraq Iran
+Iran Turkey
+Turkey Iran
+Iraq Turkey
+Turkey Iraq
+Iran UAE
+UAE Iran
+Afghanistan Iran
+Iran Afghanistan
+Afghanistan Pakistan
+Pakistan Afghanistan
+India Pakistan
+Pakistan India
+Mauritania Morocco
+Morocco Mauritania
+Tunisia Libya
+Libya Tunisia
+Tunisia Algeria
+Algeria Tunisia
+Kuwait Iraq
+Iraq Kuwait
+Kuwait UAE
+UAE Kuwait
+Kuwait Saudi
+Saudi Kuwait
+Eritrea Yemen
+Yemen Eritrea
+Sudan Eritrea
+Eritrea Sudan
+Oman Yemen
+Yemen Oman
+Oman Saudi
+Saudi Oman
+Oman UAE
+UAE Oman
+UK Germany
+Germany UK
+France UK
+UK France
+Germany Namsa
+Namsa Germany
+Namsa Croatia
+Croatia Namsa
+Croatia Italy
+Italy Croatia
+Croatia Hungary
+Hungary Croatia
+Namsa Hungary
+Hungary Namsa
+Serbia Croatia
+Croatia Serbia
+Serbia Romania
+Romania Serbia
+Serbia Hungary
+Hungary Serbia
+Romania Moldova
+Moldova Romania
+Uzbekistan Afghanistan
+Azerbaijan Iran
+Iran Azerbaijan
+Georgia Azerbaijan
+Azerbaijan Georgia
+Azerbaijan Turkey
+Somalia Kenya
+Kenya Somalia
+Kenya Ethiopia
+Ethiopia Kenya
+Ethiopia Sudan
+Sudan Ethiopia
+SouthAfrica Namibia
+Namibia SouthAfrica
+Namibia Angola
+Angola Namibia
+Angola Zambia
+Zambia Angola
+Zambia Tanzania
+Tanzania Zambia
+Tanzania Kenya
+Canada USA
+USA Canada
+USA Mexico
+Mexico USA
+Mexico Honduras
+Honduras Mexico
+Honduras Colombia
+Colombia Honduras
+Colombia Brazil
+Brazil Colombia
+Brazil Bolivia
+Bolivia Brazil
+Bolivia Uruguay
+Uruguay Bolivia
+Argentina Uruguay
+Uruguay Argentina
+Mongolia China
+China Mongolia
+Russia Mongolia
+Mongolia Russia
+China Tajikistan
+Tajikistan China
+Jordan Iraq
+Iraq Jordan
+Tajikistan Afghanistan
+Afghanistan Tajikistan
+Turkey Georgia
+Georgia Turkey
+Armenia Azerbaijan
+Azerbaijan Armenia
+Bosnia Serbia
+Serbia Bosnia
+Hungary Romania
+Romania Hungary
+Croatia Bosnia
+Bosnia Croatia
+Moldova Ukraine
+Ukraine Moldova
+Switzerland France
+France Switzerland
+Syria Lebanon
+Lebanon Syria
+Syria Jordan
+Jordan Syria
+Colombia Ecuador
+Ecuador Colombia
+Colombia Peru
+Peru Colombia
+Ecuador Peru
+Peru Ecuador
+Peru Brazil
+Brazil Peru
+Peru Bolivia
+Bolivia Peru
+Chile Peru
+Peru Chile
+Chile Uruguay
+Uruguay Chile
+Argentina Chile
+Chile Argentina
+Turkey Armenia
+Armenia Turkey
+Iraq Saudi
+Syria Turkey
+Turkey Syria
+Palestine Lebanon
+Lebanon Palestine
+Lebanon Jordan
+Jordan Lebanon
+Syria Iraq
+Iraq Syria
+Syria Jordan
+Jordan Syria
+USA Portugal
+Portugal USA
+Turkey Greece
+Greece Turkey
+Portugal Morocco
+Morocco Portugal
+Spain Morocco
+Morocco Spain
