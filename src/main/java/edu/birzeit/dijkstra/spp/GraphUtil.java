@@ -78,10 +78,10 @@ public class GraphUtil {
         calculateShortestPathFromSource(source);
         List<Country> path = new LinkedList<>();
         destination.getShortestPath().forEach(vertex -> path.add(vertex.getCountry()));
-        if(path.size()!=0) {
+        if (path.size() != 0 || sourceCountryName.equals(destinationCountryName)) {
             path.add(destination.getCountry());
         }
-        PathDto pathDto=new PathDto(path,destination.getDistance()*111);
+        PathDto pathDto = new PathDto(path, destination.getDistance() * 111);
         return pathDto;
     }
 
